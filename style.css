@@ -1,0 +1,18 @@
+body
+{
+  background-color:rgb(36, 36, 36);
+  color: white;
+  font-family:cursive;
+}
+
+a
+{
+  font-size: 30px;
+  color: white;
+  text-decoration: none;
+}
+
+h1
+{
+  font-size: 50px;
+}
